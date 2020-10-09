@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "二次线性插值缩放图片", "二次线性插值缩放图片.vcxproj", "{81FA0B5E-DC01-469E-81A9-115F25165032}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81FA0B5E-DC01-469E-81A9-115F25165032}.Debug|x64.ActiveCfg = Debug|x64
+		{81FA0B5E-DC01-469E-81A9-115F25165032}.Debug|x64.Build.0 = Debug|x64
+		{81FA0B5E-DC01-469E-81A9-115F25165032}.Debug|x86.ActiveCfg = Debug|Win32
+		{81FA0B5E-DC01-469E-81A9-115F25165032}.Debug|x86.Build.0 = Debug|Win32
+		{81FA0B5E-DC01-469E-81A9-115F25165032}.Release|x64.ActiveCfg = Release|x64
+		{81FA0B5E-DC01-469E-81A9-115F25165032}.Release|x64.Build.0 = Release|x64
+		{81FA0B5E-DC01-469E-81A9-115F25165032}.Release|x86.ActiveCfg = Release|Win32
+		{81FA0B5E-DC01-469E-81A9-115F25165032}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74CAC19F-48E7-42E6-8113-FD747062A365}
+	EndGlobalSection
+EndGlobal
